@@ -21,9 +21,8 @@ Game Rules:
 4) If the player loses all three lives, it is GAME OVER!
 
 Class Diagram:
-![Class Diagram](https://github.com/user-attachments/assets/07cac495-d363-44e8-bc88-0bba3d0a693f)
 
-
+<img width="574" alt="Class Diagram" src="https://github.com/user-attachments/assets/b0daf52f-00ef-4225-9b58-ba5097723005">
 
 Possible Future Improvements:
 1) More levels of playthrough.
