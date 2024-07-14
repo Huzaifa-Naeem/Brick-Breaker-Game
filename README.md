@@ -16,10 +16,15 @@ Game Rules:
 3) The player has a total of three lives. They lose a life if the ball falls down the screen.
 4) If the player loses all three lives, it is GAME OVER!
 
+Game Demo:
+
+https://github.com/user-attachments/assets/b5f0256e-5ff9-4cf3-8bf1-ed3aa33fcecd
+
 Possible Future Improvements:
 1) More levels of playthrough.
 2) Intricate designs of various levels.
 3) Implementing a scoring system.
 4) Increasing hitboxes of different bricks, and including various power-ups for the paddle.
+
 
 All Rights Reserved.
