@@ -1,3 +1,7 @@
+Game Demo:
+
+https://github.com/user-attachments/assets/b5f0256e-5ff9-4cf3-8bf1-ed3aa33fcecd
+
 Project Overview:
 
 Brick Breaker Game is a single-player platform game, which has, after its initial release in 1999, become a worldwide classic. In this project, this game was developed as an
@@ -16,9 +20,10 @@ Game Rules:
 3) The player has a total of three lives. They lose a life if the ball falls down the screen.
 4) If the player loses all three lives, it is GAME OVER!
 
-Game Demo:
+Class Diagram:
+![Class Diagram](https://github.com/user-attachments/assets/07cac495-d363-44e8-bc88-0bba3d0a693f)
 
-https://github.com/user-attachments/assets/b5f0256e-5ff9-4cf3-8bf1-ed3aa33fcecd
+
 
 Possible Future Improvements:
 1) More levels of playthrough.
